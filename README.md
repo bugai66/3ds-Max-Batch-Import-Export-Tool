@@ -12,10 +12,16 @@ This Maxscript saves a stupid amount of hours of work. A __stupid__ amount.
 
 ### Credits &amp; Info
 3ds Max Batch Export/Import Tool
+
 Author: josh_axey
+
 Github: github.com/joshaxey
+
 Version: 1.1.0
 
+<br>
 Based on the batch exporter/importer
+
 script by Jos Balcaen which has been
+
 decrypted, functionally improved.
