@@ -64,7 +64,7 @@ struct Importer
 			)
 			else
 			(
-				importFile path
+				importFile path #noPrompt
 				/*
 				 Fix for import of multiple models with meshes
 				 or components that have the same names,
